@@ -1,8 +1,7 @@
-
-
 <!DOCTYPE html>
 <html>
   <head>
+    <title>Alex Lixandra</title>
   </head>
   <body>
     <h1>Alexandra Lixandra</h1>
